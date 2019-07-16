@@ -1,0 +1,10 @@
+#!/usr/bin/env python
+# -*-coding:utf-8 -*-
+import numpy as np
+import matplotlib.pyplot as plt
+
+
+# plt.figure()
+plt.clf()
+plt.subplot(111)
+plt.show()
